@@ -1,0 +1,180 @@
+.header {
+    background-color: #007765;
+    height: 84px;
+    position: fixed;
+    width: 100%;
+}
+.container{
+    box-sizing: border-box;
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.right__meny {
+    float: right;
+    padding: auto;
+    padding-top: 10px;
+
+}
+.right__meny li {
+    list-style-type: none;
+    display: inline-block;
+}
+.logotype {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.right__meny li a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    white-space: nowrap;
+    color: #fff;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    /* identical to box height */
+    text-align: center;
+
+
+}
+
+.quote {
+    background-image: url(../img/first_img_fon.png);
+    background-size: cover;
+    background-position: center center;
+    padding-top: 212px;
+    padding-bottom: 128px;
+}
+.text {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 56px;
+    text-align: center;
+    color: #fff;
+}
+
+.text__header {
+    margin-top: 48px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 75px;
+    text-align: center;
+    color: #007765;
+}
+.article__text {
+    text-align: left;
+    width: 1110px;
+    height: 488px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+    margin-top: 20px;
+    padding-bottom: 50px;
+}
+
+.main__sentence {
+    background-image: url(../img/second_img_fon.png);
+    background-size: cover;
+    background-position: center center;
+}
+.main__sen__text {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 128px;
+    padding-bottom: 129px;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.row {
+    padding-top: 36px;
+    display: flex;
+    justify-content: center;
+}
+
+.ppc__logo {
+    float: left;
+    padding-right: 48px;
+    padding-top: 20px;
+}
+
+
+.team_container {
+    background-color: #EEEEEE;
+    padding: 20px;
+}
+.employee {
+    box-sizing: border-box;
+    display: inline-block;
+    height: 250px;
+    width: 300px;
+
+
+
+}
+
+.employee__img {
+    padding-left: 66px;
+    padding-right: 66px;
+}
+.employee__name {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #007765;
+    text-align: center;
+
+}
+.employee__prof {
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+    text-align: center;
+}
+
+.footer {
+    background-color: #333333;
+    height: 120px;
+    width: 100%;
+}
+
+.footer__text {
+    height: 64px;
+    width: 540px;
+    padding-left: 230px; 
+    padding-top: 30px;
+    text-align: center;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+
